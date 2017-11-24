@@ -12,6 +12,8 @@ public class Produto {
 	}
 	
 	
+	
+	
 	public Produto(int cdProduto, String nmProduto, double vlProduto) {
 		// TODO Auto-generated constructor stub
 		this.cdProduto = cdProduto;
